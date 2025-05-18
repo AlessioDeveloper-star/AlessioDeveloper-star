@@ -1,4 +1,5 @@
 # Programming languages I use
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -9,7 +10,8 @@
 ![Prolog](https://img.shields.io/badge/-Prolog-0000FF?style=flat&logo=prolog&logoColor=white)  
 ![Haskell](https://img.shields.io/badge/-Haskell-5E5086?style=flat&logo=haskell&logoColor=white)  
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)  
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C1E?style=flat&logo=assembly&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C1E?style=flat&logo=assembly&logoColor=white)  
+
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
